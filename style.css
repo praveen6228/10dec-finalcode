@@ -1,0 +1,93 @@
+.container {
+  height: 1117px;
+  width: 1728px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  border: 2px solid yellow;
+
+  background-color: #1e1e1e;
+  color: white;
+  font-family: "Inter", sans-serif;
+  margin-bottom: 50px;
+}
+.form-container {
+  height: 712px;
+  width: 1177px;
+  background-color: black;
+  margin-left: 200px;
+  margin-top: 154px;
+  margin-right: 110px;
+  font-family: "Inter", sans-serif;
+}
+form {
+  margin-top: 60px;
+}
+.heading {
+  color: white;
+  font-size: 44px;
+  font-weight: 400;
+  margin-top: 50px;
+  font-family: "Inter", sans-serif;
+  padding-top: 50px;
+}
+.name {
+  height: 49px;
+  width: 1169px;
+  background-color: black;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.email {
+  height: 49px;
+  width: 1169px;
+  background-color: black;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.password {
+  height: 49px;
+  width: 1169px;
+  background-color: black;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.cnpassword {
+  height: 49px;
+  width: 1169px;
+  background-color: black;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.mmddyy {
+  height: 49px;
+  width: 1169px;
+  background-color: black;
+  margin-bottom: 40px;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+button {
+  height: 58px;
+  width: 190px;
+  margin-top: 80px;
+  font-size: 25px;
+  font-family: "Inter", sans-serif;
+}
+.input-radio {
+  margin-bottom: 40px;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+footer {
+  margin-top: 50px;
+}
+header {
+  margin-top: 20px;
+}
+.input-chechbox {
+  font-size: 24px;
+}
+.middle-con {
+  background-color: black;
+}
